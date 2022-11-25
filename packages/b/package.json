@@ -1,0 +1,15 @@
+{
+    "name": "b",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "a": "workspace:*"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
